@@ -1,0 +1,18 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "files.associations": {
+        "iotconnectsdk.h": "c",
+        "certificates.h": "c",
+        "mqtt.h": "c",
+        "modem_key_mgmt.h": "c",
+        "tls_credentials.h": "c",
+        "kernel.h": "c",
+        "mqtt_transport.h": "c",
+        "date_time.h": "c",
+        "iotconnect_config.h": "c",
+        "*.pem": "c",
+        "socket.h": "c"
+    }
+}
